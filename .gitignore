@@ -1,0 +1,14 @@
+*.old
+serial
+index*
+crl
+crl/*
+csr
+csr/*
+certs
+certs/*
+private
+private/*
+newcerts
+newcerts/*
+openssl.cnf

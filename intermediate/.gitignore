@@ -1,0 +1,12 @@
+*.old
+serial
+index*
+crl
+crl/*
+certs
+certs/*
+private
+private/*
+newcerts
+newcerts/*
+crlnumber*
