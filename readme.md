@@ -27,7 +27,7 @@ that needs to be signed.
 1. Copy the request tgz file into the `requests` directory.
 2. Sign it like so :
    ```
-   cp path/to/<certRequest>.tgz
+   cp path/to/<certRequest>.tgz requests/
    cd requests
    ./signServerCert.sh <certRequest>
    ```
