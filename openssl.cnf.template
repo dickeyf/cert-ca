@@ -81,7 +81,7 @@ emailAddress                    = Email Address
 countryName_default             = CA
 stateOrProvinceName_default     = Quebec
 localityName_default            = Gatineau
-0.organizationName_default      = Dickey Cloud
+0.organizationName_default      = ACME, INC
 organizationalUnitName_default  =
 emailAddress_default            =
 
